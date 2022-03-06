@@ -252,7 +252,7 @@ export default function Body() {
                         <div className="offset-top-50 offset-xl-top-66">
                         {/* owl carousel */}
                         <div className="owl-carousel owl-carousel-default owl-carousel-class-light veil-owl-nav" data-loop="false" data-items="1" data-sm-items="2" data-dots="true" data-mouse-drag="false" data-lg-items="4" data-nav="false">
-                            <a href="https://njbwc.org/current-projects/essex-hudson-greenway/" target="_blank"><button className="btn btn-primary" type="button">Essex-Hudson Greenway</button></a>
+                            <a href="https://www.essexhudsongreenway.org/" target="_blank"><button className="btn btn-primary" type="button">Essex-Hudson Greenway</button></a>
                             <a href="https://www.bergenarches.com" target="_blank"><button className="btn btn-primary" type="button">Bergen Arches</button></a>
                             <a href="https://www.jcreservoir.com/" target="_blank"><button className="btn btn-primary" type="button">Resevoir #3</button></a>
                             <a href="http://jonespark.org/" target="_blank"><button className="btn btn-primary" type="button">Enos Jones Park</button></a>
