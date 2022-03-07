@@ -1772,6 +1772,7 @@ $document.ready( function () {
 					}
 				},
 				error: function (result) {
+					console.error("error! result:", result)
 
 					var output = $("#" + $(plugins.rdMailForm[this.extraData.counter]).attr("data-form-output")),
 						form = $(plugins.rdMailForm[this.extraData.counter]);
@@ -1784,6 +1785,8 @@ $document.ready( function () {
 					}
 				},
 				success: function (result) {
+					console.log("success! result…:", result)
+					result = result.code
 
 					var form = $(plugins.rdMailForm[this.extraData.counter]),
 						output = $("#" + form.attr("data-form-output")),

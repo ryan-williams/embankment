@@ -190,7 +190,7 @@ export default function Body() {
                     <div className="row justify-content-sm-center">
                     <div className="col-sm-10 col-lg-8">
                         {/* RD Mailform */}
-                        <form className="rd-mailform text-left" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+                        <form className="rd-mailform text-left" data-form-output="form-output-global" data-form-type="contact" method="post" action="api/email-signup">
                         <div className="row justify-content-sm-center">
                             <div className="col-md-6">
                             <div className="form-group">

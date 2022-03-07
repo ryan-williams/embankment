@@ -158,7 +158,7 @@ function Footer() {
                         <h6 className="text-uppercase text-spacing-60">Newsletter</h6>
                         <p>Enter your e-mail and subscribe to our newsletter.</p>
                         <div className="offset-top-30">
-                            <form className="rd-mailform" data-form-output="form-subscribe-footer" data-form-type="subscribe" method="post" action="bat/rd-mailform.php">
+                            <form className="rd-mailform" data-form-output="form-subscribe-footer" data-form-type="subscribe" method="post" action="api/email-signup">
                                 <div className="form-group">
                                     <div className="input-group input-group-sm"><span className="input-group-prepend"><span className="input-group-text input-group-icon"><span className="novi-icon mdi mdi-email"></span></span></span>
                                         <input className="form-control" placeholder="Type your E-Mail" type="email" name="email" data-constraints="@Required @Email">
