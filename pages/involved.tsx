@@ -51,7 +51,7 @@ export default function Body() {
                             <div className="col-12 col-md-6 isotope-item" data-filter="Gallery 1">
                                 {/* Product Image */}
                                 <div className="product-image">
-                                    <img className="img-fluid product-image-area" src="images/bees2.jpg" alt="" />
+                                    <img className="img-fluid product-image-area" src="images/bees2.jpg" alt="Image of a bee pollinating a flower" />
                                 </div>
                                 <div className="product-block-hover">
                                     {/* Product Add To cart */}
@@ -59,7 +59,7 @@ export default function Body() {
                                         <input type="hidden" name="cmd" value="_s-xclick" />
                                         <input type="hidden" name="hosted_button_id" value="TD673N8N5Q4HA" />
                                         <input type="image" src="http://www.embankment.org/embankment/images/selectmembership.jpg" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-                                        <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                                        <img alt="PayPal tracking pixel" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
                                     </form>
                                 </div>
                             </div>
@@ -68,7 +68,7 @@ export default function Body() {
                             <div className="col-12 col-md-6 isotope-item" data-filter="Gallery 1">
                                 {/* Product Image */}
                                 <div className="product-image">
-                                    <img className="img-fluid product-image-area" src="images/individual2.jpg" alt="" />
+                                    <img className="img-fluid product-image-area" src="images/individual2.jpg" alt="Dragonfly and flowers" />
                                 </div>
                                 <div className="product-block-hover">
                                     {/* Product Add To cart */}
@@ -76,7 +76,7 @@ export default function Body() {
                                         <input type="hidden" name="cmd" value="_s-xclick" />
                                         <input type="hidden" name="hosted_button_id" value="RYLN4DQ2N5HAS" />
                                         <input type="image" src="http://www.embankment.org/embankment/images/selectmembership.jpg" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-                                        <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                                        <img alt="PayPal tracking pixel" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
                                     </form>
                                 </div>
                             </div>
@@ -85,7 +85,7 @@ export default function Body() {
                             <div className="col-12 col-md-6 isotope-item" data-filter="Gallery 1">
                                 {/* Product Image */}
                                 <div className="product-image">
-                                    <img className="img-fluid product-image-area" src="images/family2.jpg" alt="" />
+                                    <img className="img-fluid product-image-area" src="images/family2.jpg" alt="Some butterflies" />
                                 </div>
                                 <div className="product-block-hover">
                                     {/* Product Add To cart */}
@@ -93,7 +93,7 @@ export default function Body() {
                                         <input type="hidden" name="cmd" value="_s-xclick" />
                                         <input type="hidden" name="hosted_button_id" value="7492YV58QXSZW" />
                                         <input type="image" src="http://www.embankment.org/embankment/images/selectmembership.jpg" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-                                        <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                                        <img alt="PayPal tracking pixel" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
                                     </form>
                                 </div>
                             </div>
@@ -102,7 +102,7 @@ export default function Body() {
                             <div className="col-12 col-md-6 isotope-item" data-filter="Gallery 1">
                                 {/* Product Image */}
                                 <div className="product-image">
-                                    <img className="img-fluid product-image-area" src="images/friend2.jpg" alt="" />
+                                    <img className="img-fluid product-image-area" src="images/friend2.jpg" alt="A bird" />
                                 </div>
                                 <div className="product-block-hover">
                                     {/* Product Add To cart */}
@@ -110,7 +110,7 @@ export default function Body() {
                                         <input type="hidden" name="cmd" value="_s-xclick" />
                                         <input type="hidden" name="hosted_button_id" value="GSJLC7A9PVUF4" />
                                         <input type="image" src="http://www.embankment.org/embankment/images/selectmembership.jpg" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-                                        <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                                        <img alt="PayPal tracking pixel" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
                                     </form>
                                 </div>
                             </div>
@@ -119,7 +119,7 @@ export default function Body() {
                             <div className="col-12 col-md-6 isotope-item" data-filter="Gallery 1">
                                 {/* Product Image */}
                                 <div className="product-image">
-                                <img className="img-fluid product-image-area" src="images/benefactor2.jpg" alt="" />
+                                <img className="img-fluid product-image-area" src="images/benefactor2.jpg" alt="An owl" />
                                 </div>
                                 <div className="product-block-hover">
                                     {/* Product Add To cart */}
@@ -127,7 +127,7 @@ export default function Body() {
                                         <input type="hidden" name="cmd" value="_s-xclick" />
                                         <input type="hidden" name="hosted_button_id" value="YZ5XMHDA75V2L" />
                                         <input type="image" src="http://www.embankment.org/embankment/images/selectmembership.jpg" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-                                        <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                                        <img alt="PayPal tracking pixel" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
                                     </form>
                                 </div>
                             </div>
@@ -136,7 +136,7 @@ export default function Body() {
                             <div className="col-12 col-md-6 isotope-item" data-filter="Gallery 1">
                                 {/* Product Image */}
                                 <div className="product-image">
-                                <img className="img-fluid product-image-area" src="images/life2.jpg" alt="" />
+                                <img className="img-fluid product-image-area" src="images/life2.jpg" alt="Some flowers" />
                                 </div>
                                 <div className="product-block-hover">
                                     {/* Product Add To cart */}
@@ -144,7 +144,7 @@ export default function Body() {
                                         <input type="hidden" name="cmd" value="_s-xclick" />
                                         <input type="hidden" name="hosted_button_id" value="HW6BR6ER4RXTA" />
                                         <input type="image" src="http://embankment.org/embankment/images/selectmembership.jpg" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-                                        <img alt="" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                                        <img alt="PayPal tracking pixel" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
                                     </form>
                                 </div>
                             </div>
